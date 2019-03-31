@@ -1,0 +1,99 @@
+#toast-container {
+    margin-top: 50px;
+}
+
+#page-header {
+    margin-top: 125px;
+}
+
+#page-header a.nav-link {
+    font-size: 16px;
+}
+
+#login-form input {
+    border-radius: 5px;
+}
+
+#page-footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+
+section.container {
+    margin-bottom: 75px;
+}
+
+.toast-top-right {
+  top: 75px;
+  right: 25px;
+  text-align: left;
+}
+
+.delete-form-btn {
+    display: inline-block;
+}
+
+th {
+    text-align: center;
+    /* padding: 1px 3px; */
+}
+
+.table td {
+    padding: 3px 5px !important;
+}
+
+#project-tasks-table th {
+    padding: 5px;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.create-button {
+    border-radius: 36px;
+    position: fixed !important;
+    bottom: 100px;
+    right: 50px;
+}
+
+
+.invalid-feedback > strong {
+    font-size: 12px;
+}
+
+
+.is-complete {
+    text-decoration: line-through;
+}
+
+
+/* Dashboard - Start */
+
+
+.info-box-icon {
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    font-size: 45px;
+    line-height: 75px;
+    color: #def;
+}
+
+.info-box-text {
+    display: block;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    padding-left: 5px;
+}
+
+.bg-aqua {
+    background-color: #00c0ef !important;
+}
+
+/* Dashboard - End */
