@@ -1,9 +1,25 @@
-# projectManager
+# Project Manager
 
-How to install:
+Laravel example project.
 
-1. cp .env.example .env
-2. composer install
-3. php artisan key:generate
+## How to install
+
+1. Clone or download this repository
+2. Copi file .env.example to .env
+3. Install dependencies
+
+```
+composer install
+```
+composer install
+
+4.  php artisan key:generate
 4. php artisan migrate
-5. php artisan serve
+5. Start project
+```
+php artisan serve
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
