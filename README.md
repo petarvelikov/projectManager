@@ -5,7 +5,7 @@ Laravel example project.
 ## How to install
 
 1. Clone or download this repository
-2. Copi file .env.example to .env
+2. Copy file .env.example to .env
 3. Install dependencies
 
 ```
