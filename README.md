@@ -1,6 +1,6 @@
 # Project Manager
 
-Laravel (5.7) example project. [Links with title](http://localhost/ "link title")
+Laravel (5.7) example project. [Demo](http://localhost/)
 
 
 ## How to install
