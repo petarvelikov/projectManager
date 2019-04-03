@@ -7,11 +7,9 @@ Laravel example project.
 1. Clone or download this repository
 2. Copy file .env.example to .env
 3. Install dependencies
-
 ```
 composer install
 ```
-composer install
 
 4.  php artisan key:generate
 4. php artisan migrate
