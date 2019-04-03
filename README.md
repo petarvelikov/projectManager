@@ -40,6 +40,7 @@ php artisan migrate
 php artisan serve
 ```
 
+
 ## License
 
 This project is licensed under the MIT License.
