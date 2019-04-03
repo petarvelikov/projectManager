@@ -30,12 +30,12 @@ php artisan key:generate
 composer install
 ```
 
-6. Create all table in database
+6. Create all tables in database
 ```
 php artisan migrate
 ```
 
-7. Start project
+7. Start the project
 ```
 php artisan serve
 ```
