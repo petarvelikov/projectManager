@@ -10,7 +10,6 @@
         <h2 class="lead text-warning text-center" style="font-size: 24px; font-weight: bold;">Това е тестово приложение.</h2>
         @guest
             <h3 class="text-info text-center">За повече информация влезте в системата.</h3>
-            <h4 class="text-secondary text-center">username: demo | password: demo</h4>
         @endguest
     </div>
 
