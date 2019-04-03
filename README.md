@@ -1,23 +1,45 @@
 # Project Manager
 
-Laravel example project.
+Laravel (5.7) example project.
+
 
 ## How to install
 
 1. Clone or download this repository
-2. Copy file .env.example to .env
-3. Install dependencies
+```
+git clone https://github.com/petarvelikov/projectManager.git
+```
+
+2. Go to folder  
+```
+cd projectManager
+```
+
+3. Create new environment (.env) file and use your data for database
+```
+cp .env.example .env
+```
+
+4. Generate application key
+```
+php artisan key:generate
+```
+
+5. Install dependencies
 ```
 composer install
 ```
 
-4.  php artisan key:generate
-4. php artisan migrate
-5. Start project
+6. Create all table in database
+```
+php artisan migrate
+```
+
+7. Start project
 ```
 php artisan serve
 ```
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
