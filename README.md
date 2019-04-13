@@ -15,19 +15,19 @@ git clone https://github.com/petarvelikov/projectManager.git
 cd projectManager
 ```
 
-3. Create new environment (.env) file and use your data for database
+3. Install dependencies
+```
+composer install
+```
+
+4. Create new environment (.env) file and use your data for database
 ```
 cp .env.example .env
 ```
 
-4. Generate application key
+5. Generate application key
 ```
 php artisan key:generate
-```
-
-5. Install dependencies
-```
-composer install
 ```
 
 6. Create all tables in database
