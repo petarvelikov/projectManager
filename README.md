@@ -1,6 +1,6 @@
 # Project Manager
 
-Laravel (5.7) example project. [Demo](http://project-manager.eu5.org/)
+Laravel (5.7) example project. [Demo](http://project-manager.dx.am/)
 
 
 ## How to install
